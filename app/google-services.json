@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780029867501",
+    "project_id": "telefonos-1ef9c",
+    "storage_bucket": "telefonos-1ef9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780029867501:android:d3c302167f2e2e56dfa3e4",
+        "android_client_info": {
+          "package_name": "com.miempresa.safeband"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4TSiQl3jL_2VPpVyQ2AL6gi-6_a49jOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
